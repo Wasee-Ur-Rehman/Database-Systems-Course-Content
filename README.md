@@ -22,5 +22,8 @@ This repository contains comprehensive materials for the **Database Systems** co
    git clone https://github.com/<username>/DatabaseSystems-CourseContent.git
 2. Navigate through the organized folder structure to find the required materials.
 
+## Disclaimer on Reference Books/ Content:
+Some of the **reference books/Content ** included in this repository are for educational purposes only and have been uploaded to assist students in their learning journey. These books are not owned by the repository maintainers. All credit for these books goes to the original authors and publishers.
+
 ## Contact:
 If you have questions or need assistance, feel free to contact me at waseeurrehmanch@gmail.com or https://www.linkedin.com/in/wasee-ur-rehman.
