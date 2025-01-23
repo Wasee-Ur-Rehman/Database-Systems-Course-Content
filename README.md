@@ -19,7 +19,7 @@ This repository contains comprehensive materials for the **Database Systems** co
 1. Clone or download the repository to access all resources.
 
    ```bash
-   git clone https://github.com/<username>/DatabaseSystems-CourseContent.git
+   git clone https://github.com/Wasee-Ur-Rehman/Database-Systems-Course-Content.git
 2. Navigate through the organized folder structure to find the required materials.
 
 ## Disclaimer on Reference Books/ Content:
